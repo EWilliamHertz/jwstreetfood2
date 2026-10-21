@@ -1,0 +1,159 @@
+{
+  "menu_items": [
+    {
+      "id": 1,
+      "title_sv": "JW Smash Burgare",
+      "title_en": "JW Smash Burger",
+      "desc_sv": "100% svenskt närproducerat nötkött (från gård nära Askersund med inslag av wagyu) smashat till krispig perfektion. Serveras med dubbel smält cheddarost, karamelliserad lök, krispig saltgurka och JW's hemliga signaturdressing i rostat briochebröd.",
+      "desc_en": "100% locally sourced Swedish beef (with touches of Wagyu) smashed for maximum crust and juiciness. Double cheddar, caramelized onions, crispy pickles, and secret signature sauce in toasted brioche.",
+      "price": "125 kr",
+      "image": "/assets/images/IMG_5803.jpeg",
+      "additional_images": "/assets/images/IMG_5801.jpeg, /assets/images/IMG_5799.jpeg",
+      "tags": "Smash, Wagyu, Bestseller, Falköping & Lidköping",
+      "is_sold_out": false
+    },
+    {
+      "id": 2,
+      "title_sv": "Gourmet Körven",
+      "title_en": "Gourmet Artisan Sausage",
+      "desc_sv": "Riktig hantverkskorv av högsta kvalitet serverad i mjukt briochebröd med rostad lök, sötstark senap och husets picklade rödlök.",
+      "desc_en": "Premium artisan sausage served in a soft brioche bun with crispy fried onions, sweet-spicy craft mustard, and pickled red onions.",
+      "price": "85 kr",
+      "image": "/assets/images/IMG_5802.jpeg",
+      "additional_images": "/assets/images/IMG_5800.jpeg",
+      "tags": "Körv, Hantverk, Street Food",
+      "is_sold_out": false
+    },
+    {
+      "id": 3,
+      "title_sv": "Dirty Fries Supreme",
+      "title_en": "Dirty Fries Supreme",
+      "desc_sv": "En generös tallrik krispiga pommes frites toppade med saftig slicead smashburgare, tapas-style körvbitar, smält cheddarostsås, mos och jalapeños.",
+      "desc_en": "Crispy golden fries loaded with sliced juicy smash patty, tapas-style sausage bites, creamy cheese sauce, mash, and jalapeños.",
+      "price": "115 kr",
+      "image": "/assets/images/IMG_5801.jpeg",
+      "additional_images": "/assets/images/IMG_5802.jpeg",
+      "tags": "Dirty Fries, Tapas Style, Favorit",
+      "is_sold_out": false
+    },
+    {
+      "id": 4,
+      "title_sv": "Klassisk Halv Special & Hälta Hälta",
+      "title_en": "Classic Halv Special & Hälta Hälta",
+      "desc_sv": "Västgötas stolthet! Grillad kvalitetskorv i varmt korvbröd eller med pommes, toppad med vårt krämiga hemlagade potatismos och klassiska tillbehör.",
+      "desc_en": "The West Sweden legend! Grilled quality sausage in a warm bun topped with fluffy homemade mashed potatoes and classic condiments.",
+      "price": "95 kr",
+      "image": "/assets/images/IMG_5800.jpeg",
+      "additional_images": "/assets/images/IMG_5802.jpeg",
+      "tags": "Klassiker, Mos & Körv, Västgöta",
+      "is_sold_out": false
+    },
+    {
+      "id": 5,
+      "title_sv": "JW Bacon & Smoke Cheese Burgare",
+      "title_en": "JW Bacon & Smoke Cheese Burger",
+      "desc_sv": "Dubbel smashad biff med krispigt rökigt bacon, rökig BBQ-glaze, smält cheddarost, krispsallad och picklad rödlök.",
+      "desc_en": "Double smash beef with crispy smoked bacon, smoky BBQ glaze, sharp cheddar, crisp lettuce, and pickled red onions.",
+      "price": "135 kr",
+      "image": "/assets/images/IMG_5799.jpeg",
+      "additional_images": "/assets/images/IMG_5803.jpeg",
+      "tags": "Burgare, Bacon, Smoke",
+      "is_sold_out": false
+    },
+    {
+      "id": 6,
+      "title_sv": "Vårt Lag – Falköping & Lidköping",
+      "title_en": "Our Team – Falköping & Lidköping",
+      "desc_sv": "Alla våra passionerade medarbetare som ser till att du får en suverän måltid vid varje besök på Järnvägsgatan 12 i Falköping och Stenportgatan 35 i Lidköping!",
+      "desc_en": "Our dedicated crew cooking up the best burgers and sausages across our two restaurant locations in Falköping and Lidköping!",
+      "price": "100% Kärlek",
+      "image": "/assets/images/IMG_5805.jpeg",
+      "additional_images": "/assets/images/IMG_5800.jpeg, /assets/images/IMG_5799.jpeg",
+      "tags": "Laget, Passion, Skaraborg",
+      "is_sold_out": false
+    }
+  ],
+  "weekly_schedule": [
+    {
+      "id": 1,
+      "day_of_week": "Måndag",
+      "location_name": "Falköping & Lidköping",
+      "time_range": "Stängt",
+      "is_active": false
+    },
+    {
+      "id": 2,
+      "day_of_week": "Tisdag",
+      "location_name": "Järnvägsgatan 12 (Falköping) & Stenportgatan 35 (Lidköping)",
+      "time_range": "12:00 - 20:00",
+      "is_active": true
+    },
+    {
+      "id": 3,
+      "day_of_week": "Onsdag",
+      "location_name": "Järnvägsgatan 12 (Falköping) & Stenportgatan 35 (Lidköping)",
+      "time_range": "12:00 - 20:00",
+      "is_active": true
+    },
+    {
+      "id": 4,
+      "day_of_week": "Torsdag",
+      "location_name": "Järnvägsgatan 12 (Falköping) & Stenportgatan 35 (Lidköping)",
+      "time_range": "12:00 - 20:00",
+      "is_active": true
+    },
+    {
+      "id": 5,
+      "day_of_week": "Fredag",
+      "location_name": "Järnvägsgatan 12 (Falköping) & Stenportgatan 35 (Lidköping)",
+      "time_range": "12:00 - 20:00",
+      "is_active": true
+    },
+    {
+      "id": 6,
+      "day_of_week": "Lördag",
+      "location_name": "Järnvägsgatan 12 (Falköping) & Stenportgatan 35 (Lidköping)",
+      "time_range": "12:00 - 20:00",
+      "is_active": true
+    },
+    {
+      "id": 7,
+      "day_of_week": "Söndag",
+      "location_name": "Falköping & Lidköping",
+      "time_range": "Stängt",
+      "is_active": false
+    }
+  ],
+  "reviews": [
+    {
+      "id": 1,
+      "author": "Marcus Lindgren, Falköping",
+      "rating": 5,
+      "content_sv": "Utan tvekan de godaste smashburgarna i Skaraborg! Köttet från Askersund med wagyu smälter i munnen och brödet är helt fantastiskt.",
+      "content_en": "Without a doubt the best smash burgers in Skaraborg! The locally sourced beef with Wagyu melts in your mouth."
+    },
+    {
+      "id": 2,
+      "author": "Elin Blomqvist, Lidköping",
+      "rating": 5,
+      "content_sv": "Så grymt att ni öppnat på Stenportgatan i Lidköping! Gourmetkorven och deras dirty fries är ren magi. Varmt bemötande varje gång.",
+      "content_en": "So excited you opened on Stenportgatan in Lidköping! The gourmet dog and dirty fries are pure magic."
+    },
+    {
+      "id": 3,
+      "author": "Johan K., Falköping",
+      "rating": 5,
+      "content_sv": "Halvspecialen med deras hemgjorda mos är tio av tio. Äkta street food gjord från grunden med stolthet!",
+      "content_en": "The halv special with their homemade mashed potatoes is 10/10. Real street food made from scratch!"
+    },
+    {
+      "id": 4,
+      "author": "Camilla W., Lidköping",
+      "rating": 5,
+      "content_sv": "Bästa stället för både snabb och galet god lunch eller kvällsmat. Öppet tisdag–lördag 12-20, smidigt och alltid nylagat!",
+      "content_en": "Best spot for quick and insanely good lunch or dinner. Open Tuesday to Saturday 12-20, super convenient and always fresh!"
+    }
+  ],
+  "bookings": [],
+  "subscribers": []
+}
